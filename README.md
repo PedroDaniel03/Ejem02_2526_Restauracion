@@ -16,4 +16,5 @@
 `string variable:"Esto es una cadena de texto"`
 ---
 Enlace a web del centro desarrollador: [GF](https://www.example.com)
+
 Imagen corporativa: 	![LogoGF](image.jpg)

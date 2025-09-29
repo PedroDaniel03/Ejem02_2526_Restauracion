@@ -17,7 +17,7 @@
 ---
 Enlace a web del centro desarrollador: [GF](https://www.example.com)
 
-Imagen corporativa: 	![LogoGF](https://www.google.com/imgres?q=gregorio%20fernandez%20valladolid%20instituto&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D514031700727535&imgrefurl=https%3A%2F%2Fm.facebook.com%2Fcecgregoriofe%2Fabout%2F&docid=tg_8lUBktPi_BM&tbnid=pZ8hENBWAhtXwM&vet=12ahUKEwjpj9vcyv2PAxVPgv0HHcwVKUsQM3oECCAQAA..i&w=210&h=210&hcb=2&itg=1&ved=2ahUKEwjpj9vcyv2PAxVPgv0HHcwVKUsQM3oECCAQAA)
+Imagen corporativa: 	![LogoGF](https://gregoriofer.com/logo.jpg)
 
 Trabajadores del proyecto:
 | **Identificador** | **Nombre alumno** |

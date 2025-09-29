@@ -28,3 +28,19 @@ Trabajadores del proyecto:
 | 2 | Victor |
 | 3 | Jorge | 
 | 4 | Pedro |
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+GIT
+: Control de versiones utilizado
+
+IDE
+: Eclipse para desarrollar proyectos
+

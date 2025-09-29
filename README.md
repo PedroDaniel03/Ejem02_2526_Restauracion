@@ -18,3 +18,10 @@
 Enlace a web del centro desarrollador: [GF](https://www.example.com)
 
 Imagen corporativa: 	![LogoGF](image.jpg)
+
+Trabajadores del proyecto:
+| **Identificador** | **Nombre alumno** |
+| 1 | Juan |
+| 2 | Victor |
+| 3 | Jorge | 
+| 4 | Pedro |

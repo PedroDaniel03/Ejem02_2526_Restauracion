@@ -21,6 +21,7 @@ Imagen corporativa: 	![LogoGF](image.jpg)
 
 Trabajadores del proyecto:
 | **Identificador** | **Nombre alumno** |
+| ----------- | ----------- |
 | 1 | Juan |
 | 2 | Victor |
 | 3 | Jorge | 
